@@ -6,8 +6,7 @@ Tools: Excel | SQL | Power BI | R
 Mumbai, India  
 
 Email: sumaiyashaikh123000@gmail.com 
-+91-8291197521
-[LinkedIn](https://linkedin.com/in/sumaiya-mohammed-hanif) | [GitHub](https://github.com/sumaiyamohammedhanif)
+[LinkedIn](https://linkedin.com/in/sumaiya-mohammed-hanif) | [GitHub](https://github.com/SumaiyaMohammedHanif)
 
 ---
 
@@ -15,27 +14,25 @@ Email: sumaiyashaikh123000@gmail.com
 
 I'm a self-driven data and financial analyst passionate about turning raw data into business insights. With a strong foundation in Excel, SQL, Power BI, and R, I've completed multiple end-to-end projects solving and focusing on real-world business problems and finance domains.Actively seeking Data/Financial Analyst roles.
 
-My goal is to join company and help derive decisions through data storytelling and financial insights.
-
 ---
 
 ## Projects
 
-### [1. Equity Fundamentals Analysis of Indian Companies (2019–2023)](https://github.com/sumaiyamohammedhanif/equity-fundamentals-analysis)
+### [1. Equity Fundamentals Analysis of Indian Companies (2019–2023)](https://github.com/SumaiyaMohammedHanif/equity-fundamentals-analysis)
 **Tools**: Excel, R, Power BI  
 **Domain**: Finance / Equity  
 **Description**: Analyzed revenue, EPS, net profit, and market cap for top Indian companies. Designed an interactive Power BI dashboard for stakeholder insights.  
 
 ---
 
-### [2. Mutual Fund Performance & Risk & Return Analysis (India)](https://github.com/sumaiyamohammedhanif/mutual-fund-risk-return-analysis)
+### [2. Mutual Fund Performance & Risk & Return Analysis (India)](https://github.com/SumaiyaMohammedHanif/Mutual-Fund-Performance-Risk-Return-Analysis-India-)
 **Tools**: Excel, R, SQL, Power BI  
 **Domain**: Mutual Funds / Portfolio Analytics  
 **Description**: Assessed mutual fund performance using Sharpe Ratio, CAGR, correlation, and risk-return visualization. Built an insightful Power BI dashboard.  
 
 ---
 
-### [3. FMCG Sales Insights Analysis Dashboard (AtliQ, Codebasics)](https://github.com/sumaiyamohammedhanif/sales-insights-analysis-dashboard)
+### [3. FMCG Sales Insights Analysis Dashboard (AtliQ, Codebasics)](https://github.com/SumaiyaMohammedHanif/sales-insights-analysis-dashboard)
 **Tools**: MySQL, Power BI, Excel  
 **Domain**: Sales / Business Intelligence  
 **Description**: Created a sales dashboard for an FMCG firm to identify performance gaps across regions and products. Included KPIs and performance drilldowns.  
@@ -51,13 +48,28 @@ My goal is to join company and help derive decisions through data storytelling a
 
 ---
 
-## Contact
+## Education
 
-Email: sumaiyashaikh123000@gmail.com  
-LinkedIn: [linkedin.com/in/yourlinkedin](https://linkedin.com/in/sumaiya-mohammed-hanif)  
-Portfolio: [yourusername.github.io](https://sumaiyamohammedhanif.github.io)  
-Mumbai, India
+- **Bachelor of Science in Computer Science**  
+  *SIES College of Arts, Science & Commerce, Sion*  
+  Mumbai University | Graduated: 2025
 
 ---
 
-> 💡 *“Numbers tell a story – I'm here to translate that story into decisions.”*
+## Certifications
+
+- **Google Professional Certificate in Data Analytics**  
+  Coursera – Specialization Certificate Google Data Analytics | 2025  
+  [🔗 View Certificate](https://www.coursera.org/account/accomplishments/specialization/P8I24L2CMO95)
+
+---
+
+## Contact
+
+Email: sumaiyashaikh123000@gmail.com  
+Phone number: +91-8291197521
+LinkedIn: [linkedin.com/in/sumaiya-mohammed-hanif](https://linkedin.com/in/sumaiya-mohammed-hanif)  
+Portfolio: [SumaiyaMohammedHanif.github.io](https://SumaiyaMohammedHanif.github.io)  
+Location: Mumbai, India
+
+---
